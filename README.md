@@ -17,7 +17,7 @@ The installation process for the Attendance System is straightforward and can be
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/attendance-system.git
+   git clone https://github.com/ettashamrafid/Attendence-Automation-Using-Computer-Vision.git
 2. **Provide your employee images with their name as image name in the test Images folder**
 
 
